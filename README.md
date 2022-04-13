@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ever
 
-##: About me
+## About me:
 I'm Ever from Colombia, Bachelor's Degree in Systems Engineering and web developer. I'm currently enhancing my skills with personal projects.
 ## Skills:
 [![Html5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
@@ -15,8 +15,11 @@ I'm Ever from Colombia, Bachelor's Degree in Systems Engineering and web develop
 <!-- [![React](https://img.shields.io/badge/react-61dbfb?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]() -->
 
 ## Tools:
-[![t](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
+[![XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white&labelColor=101010)]()
+[![Notion](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=Notion&logoColor=white&labelColor=101010)]()
 <!-- [![t]()]()-->
+
 
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
