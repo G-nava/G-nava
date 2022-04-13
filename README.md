@@ -3,9 +3,8 @@
 ### About me
 I'm Ever from Colombia, Bachelor's Degree in Systems Engineering and web developer. I'm currently enhancing my skills with personal projects.
 
-</br>
 ### Skills
-
+</br>
 [![Html5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![Css3](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
@@ -20,7 +19,9 @@ I'm Ever from Colombia, Bachelor's Degree in Systems Engineering and web develop
 </br>
 
 ### Tools
-https://img.shields.io/badge/figma-ff6347?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010
+[![t](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
+<!-- [![t]()]()-->
+
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
