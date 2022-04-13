@@ -4,7 +4,7 @@
 I'm Ever from Colombia, Bachelor's Degree in Systems Engineering and web developer. I'm currently enhancing my skills with personal projects.
 
 
-### Skils
+### Skills
 <div>
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
