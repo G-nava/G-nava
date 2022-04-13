@@ -4,7 +4,8 @@
 
 ### About me
 ## Web developer
-![Web developer](https://media-exp1.licdn.com/dms/image/C4E16AQHaJf77s1g4ng/profile-displaybackgroundimage-shrink_200_800/0/1649555722696?e=1655337600&v=beta&t=GeatY5gP63SalpBzpcJnLQISi1f3BIslN16XBrveBQU)
+<img src="https://github.com/G-nava/G-nava/blob/main/resources/impbckg.jpg?raw=true" align="center"/>
+<!-- ![Web developer](https://media-exp1.licdn.com/dms/image/C4E16AQHaJf77s1g4ng/profile-displaybackgroundimage-shrink_200_800/0/1649555722696?e=1655337600&v=beta&t=GeatY5gP63SalpBzpcJnLQISi1f3BIslN16XBrveBQU) -->
 
 I'm Ever from Colombia, Bachelor's Degree in Systems Engineering and web developer. I'm currently enhancing my skills with personal projects.
 
