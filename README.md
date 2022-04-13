@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Ever
 
-### About me
+##: About me
 I'm Ever from Colombia, Bachelor's Degree in Systems Engineering and web developer. I'm currently enhancing my skills with personal projects.
-### Skills
+## Skills:
 [![Html5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![Css3](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
@@ -13,8 +13,8 @@ I'm Ever from Colombia, Bachelor's Degree in Systems Engineering and web develop
 [![Flask](https://img.shields.io/badge/flask-ffffff?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=Java&logoColor=white&labelColor=101010)]() 
 <!-- [![React](https://img.shields.io/badge/react-61dbfb?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]() -->
-</br>
-### Tools
+
+## Tools:
 [![t](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
 <!-- [![t]()]()-->
 
