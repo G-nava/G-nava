@@ -4,7 +4,7 @@
 
 ### About me
 ## Web developer
-<img src="https://github.com/G-nava/G-nava/blob/main/resources/impbckg.jpg?raw=true" align="center" height="150px"/>
+<img src="https://github.com/G-nava/G-nava/blob/main/resources/impbckg.jpg?raw=true" align="center" />
 
 I'm Ever from Colombia, Bachelor's Degree in Systems Engineering and web developer. I'm currently enhancing my skills with personal projects.
 
