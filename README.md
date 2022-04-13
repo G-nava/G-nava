@@ -18,6 +18,10 @@ I'm Ever from Colombia, Bachelor's Degree in Systems Engineering and web develop
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
 [![XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white&labelColor=101010)]()
 [![Notion](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=Notion&logoColor=white&labelColor=101010)]()
+[![Vscode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white&labelColor=101010)]()
+
+
 <!-- [![t]()]()-->
 
 
