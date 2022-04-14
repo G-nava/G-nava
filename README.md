@@ -22,11 +22,12 @@ I'm Ever from Colombia, Bachelor's Degree in Systems Engineering and web develop
 [![Vscode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white&labelColor=101010)]()
 
+## Fiond me on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ever_Navarro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ever-navarro/)
+
 ## Some metrics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-nava&layout=compact)](https://github.com/G-nava/github-readme-stats)
 <!-- [![t]()]()-->
-## Fiond me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ever_Navarro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ever-navarro/)
 
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
