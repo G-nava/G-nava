@@ -25,7 +25,8 @@ I'm Ever from Colombia, Bachelor's Degree in Systems Engineering and web develop
 ## Some metrics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-nava&layout=compact)](https://github.com/G-nava/github-readme-stats)
 <!-- [![t]()]()-->
-
+## Fiond me on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ever_Navarro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ever-navarro/)
 
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
