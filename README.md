@@ -12,7 +12,7 @@ I'm Ever from Colombia, Bachelor's Degree in Systems Engineering and web develop
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![SQLite](https://img.shields.io/badge/SQLite-6fb6f6?style=for-the-badge&logo=SQLite&logoColor=white)]()
-[![Flask](https://img.shields.io/badge/flask-ffffff?style=for-the-badge&logo=flask&logoColor=white)]()
+[![Flask](https://img.shields.io/badge/flask-ffffff?style=for-the-badge&logo=flask&logoColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=Java&logoColor=white)]() 
 <!-- [![React](https://img.shields.io/badge/react-61dbfb?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]() -->
 
