@@ -7,6 +7,7 @@ I'm Ever from Colombia, Bachelor's Degree in Systems Engineering and web develop
 [![Css3](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white)]()
 [![Sass](https://img.shields.io/badge/SASS-da5496?style=for-the-badge&logo=SASS&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=101010)]()
+[![React](https://img.shields.io/badge/react-61dbfb?style=for-the-badge&logo=react&logoColor=white)]()
 [![Python](https://img.shields.io/badge/python-ffd43b?style=for-the-badge&logo=python&logoColor=2300C4CC)]()
 
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
