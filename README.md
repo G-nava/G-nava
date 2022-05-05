@@ -32,5 +32,5 @@ I'm Ever from Colombia, Bachelor's Degree in Systems Engineering and web develop
 <!-- [![t]()]()-->
 
 
-<!-- https://github.com/Ileriayo/markdown-badges -->
 
+<!-- https://github.com/Ileriayo/markdown-badges -->
