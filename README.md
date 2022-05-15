@@ -25,7 +25,6 @@ I'm Ever from Colombia, Bachelor's Degree in Systems Engineering and web develop
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)]()
 <!--[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)]()-->
 
-
 ## Find me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ever_Navarro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ever-navarro/)
 
