@@ -32,7 +32,6 @@ I'm Ever from Colombia, Bachelor's Degree in Systems Engineering and web develop
 ## Some metrics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-nava&layout=compact)](https://github.com/G-nava/github-readme-stats)
 <!-- [![t]()]()-->
-}
 
 
 
